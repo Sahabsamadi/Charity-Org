@@ -24,7 +24,7 @@ A fully functional charity website designed with HTML, CSS, JavaScript, and UI/U
 ## 🚀 Getting Started
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/charity-org.git
+   git clone https://github.com/sahabsamadi/charity-org.git
    ```
 2. Navigate to the project folder:
    ```bash
